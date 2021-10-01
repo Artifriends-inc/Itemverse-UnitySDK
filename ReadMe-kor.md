@@ -140,7 +140,7 @@
 
 8. 이더리움 테스트에 유용한 사이트입니다.
    1. 테스트 이더리움 발급: https://faucet.ropsten.be/
-   2. 테스트 이더리움 토큰 발급(ERC-721): https://af.faucet.api.itemverse.io/fauceterc721.html
+   2. 테스트 이더리움 토큰 발급(ERC-721): https://faucet.itemverse.saseul.com/fauceterc721.html
    3. 테스트 이더리움 토큰 발급(ERC-20) : https://erc20faucet.com/
    4. 테스트 이더리움 익스플로러: https://ropsten.etherscan.io/
 
