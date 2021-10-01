@@ -140,7 +140,7 @@ SASEUL is a third-generation blockchain engine that has solved the chronic probl
 
 8. Useful sites for Ethereum test.
     1. Issuance of test Ethereum: https://faucet.ropsten.be/
-    2. Issuance of test Ethereum tokens(ERC-721) : https://af.faucet.api.itemverse.io/fauceterc721.html
+    2. Issuance of test Ethereum tokens(ERC-721) : https://faucet.itemverse.saseul.com/fauceterc721.html
     3. Issuance of test Ethereum tokens(ERC-20) :  https://erc20faucet.com/
     4. Test Ethereum Explorer: https://ropsten.etherscan.io/
 
